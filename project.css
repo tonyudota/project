@@ -1,0 +1,231 @@
+.hero {
+    background-color: #E7EFFA;
+    padding: 90PX 250PX;
+    font-family: "Roboto Slab", serif;
+}
+
+.img-tag {
+    height: 700px;
+}
+
+.line {
+    width: 100px;
+    height: 7px;
+    margin-bottom: 20px;
+}
+
+.hero h1 {
+    font-size: 80px;
+    color: #f00e10;
+    font-weight: 300;
+    margin-bottom: 30px;
+}
+
+.btn-primary {
+    padding: 15px 40px;
+    background-color: #f00e10 !important;
+    color: white !important;
+    border-color: #f00e10;
+}
+
+.btn-primary:hover {
+    background-color: black !important;
+    border-color: black !important;
+    
+}
+
+.btn-secondary {
+    color:black;
+    background-color: white !important;
+    border: #E7EFFA !important;
+    margin-top: 20px;
+
+}
+.btn-secondary:hover{
+    background-color: black !important;
+    border-color: black !important;
+    color: #E7EFFA !important;
+}
+
+.advisory-card {
+    padding: 80px 50px;
+    margin-top: 40px;
+}
+
+.free {
+    text-align: center;
+    margin-top: 30px;
+}
+
+/* section 2 */
+.deep {
+    padding: 150px 250px;
+    background-color: #f00e10;
+
+}
+
+.deep-know {
+    color: #E7EFFA;
+}
+
+.deep-know h4 {
+    font-size: 20px;
+    margin-top: 20px;
+
+
+}
+
+.deep-know h2 {
+    font-size: 50px;
+
+}
+
+.deep-know p {
+    font-size: 20px;
+    line-height: 1.9;
+}
+
+/*section 3 */
+.services {
+    padding: 15px 10px;
+    margin-left: 15px;
+}
+
+.services h2 {
+    font-size: 50px;
+    margin-bottom: 30px;
+}
+
+.services p {
+    font-family: "Open Sans", sans-serif;
+    line-height: 2.0;
+}
+
+
+.service-card {
+    padding: 100px 20px;
+}
+
+.service-img {
+    background-image: url(images/2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.btn{
+    background-color: #f00e10;
+}
+
+/* section 4 */
+.quality {
+    background-color: #f00e10;
+    padding: 60px 180px;
+
+}
+
+.deep-quality {
+
+}
+
+.deep-quality p {
+    font-family: "Open Sans", sans-serif;
+
+}
+
+.body-quality h2 {
+    font-family: "Roboto Slab", serif;
+    margin-bottom: 50px;
+    font-size: 40px;
+
+}
+
+.body-quality {
+    background-color: #f00e10;
+    color: #E7EFFA;
+    padding: 20px 50px;
+    border: 1.5px solid white;
+
+}
+
+.body-quality h1 {
+    line-height: 2.5;
+}
+
+.body-quality p {
+    line-height: 2.0;
+}
+
+
+.digital {
+    background-image: url(images/3.jpg);
+    height: 800px;
+    padding: 0px  150px 150px 150px;
+    
+    
+} 
+
+.market{
+    background-color: white;
+    padding: 50px 60px 60px 40px;
+
+}
+.market h2{
+    font-size: 50px;
+    margin-bottom: 70px;
+}
+.market p{
+    font-size: 25px
+
+}
+.circle{
+    height: 70px;
+    width: 70px;
+    background-color: #f00e10;
+    border-radius: 50px;
+    margin-bottom: 20px;
+}
+
+/* section 5 */
+.team h2{
+    text-align: center;
+    font-family: "Roboto Slab", serif;
+    font-size: 60px;
+    margin-bottom: 30px;
+}
+.hero h5{
+    color: #f00e10
+ }
+ .brown{
+    margin-bottom: 50px;
+ }
+.hero p{
+    color: #808080;
+}
+.field{
+    text-align: center;
+}
+.field p{
+    color: black;
+}
+/* section 6 */
+.lane{
+    width: 150px;
+    height: 15px;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.cost{
+    padding: 90px 150px;
+}
+.solve h2{
+    font-size: 50px;
+    font-family: "Roboto Slab", serif;
+}
+.trans{
+    background-color: #E7EFFA;
+    padding: 30PX 30PX;
+    border-left: 20px solid #f00e10;
+}
+.trans h4{
+    font-family: "Montserrat", sans-serif;
+    font-size: 30px;
+}
